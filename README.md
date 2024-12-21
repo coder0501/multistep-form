@@ -43,8 +43,8 @@ http://localhost:5173
 ## File Structure
 
 multistep-form/
-├── src/
-│   ├── components/
+## ├── src/
+### │   ├── components/
 │   │   ├── MultiStepForm.tsx  # Main multistep form component
 │   │   ├── ProgressBar.tsx    # Progress bar component
 │   │   ├── steps/
